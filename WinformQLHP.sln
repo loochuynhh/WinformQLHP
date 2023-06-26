@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCuoiKyDotnet", "BTCuoiKyDotnet\BTCuoiKyDotnet.csproj", "{CD10D83F-C3DD-4E57-83DF-6235914D6AF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHP", "BTCuoiKyDotnet\QuanLyHP.csproj", "{CD10D83F-C3DD-4E57-83DF-6235914D6AF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
